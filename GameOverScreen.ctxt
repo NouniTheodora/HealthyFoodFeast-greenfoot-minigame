@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GameOverScreen
+comment0.text=\n\ GameOverScreen\ is\ displayed\ when\ the\ player\ loses\ all\ lives\ or\ when\ time\ runs\ out\n\ before\ reaching\ the\ winning\ score\ in\ Healthy\ Food\ Feast.\n\ \n\ It\ shows\ the\ "Game\ Over"\ message,\ displays\ the\ final\ score,\ and\ offers\ an\ option\n\ to\ restart\ the\ game\ by\ pressing\ the\ [ENTER]\ key.\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=finalScore
+comment1.target=GameOverScreen(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GameOverScreen.\n\ \n
+comment2.params=finalScore
+comment2.target=void\ showGameOver(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FallingObject
+comment0.text=\n\ FallingFood\ is\ an\ abstract\ base\ class\ for\ all\ food\ items\ in\ the\ game.\n\ \n\ It\ defines\ the\ basic\ falling\ behavior\ shared\ by\ both\ HealthyFood\ and\ UnhealthyFood.\n\ \n\ Every\ FallingFood\ object\ falls\ down\ the\ screen\ at\ a\ certain\ speed\ and\ \n\ is\ automatically\ removed\ if\ it\ reaches\ the\ bottom\ of\ the\ world.\n\ \n\ Subclasses\ can\ extend\ this\ class\ to\ add\ specific\ behaviors\ for\ different\ types\ of\ food.\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=
+comment1.target=FallingObject()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fall()
+comment4.params=
+comment4.target=void\ checkBottom()
+numComments=5

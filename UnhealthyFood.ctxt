@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UnhealthyFood
+comment0.text=\n\ UnhealthyFood\ represents\ the\ junk\ food\ items\ the\ player\ should\ avoid.\n\ \n\ Each\ UnhealthyFood\ object\ randomly\ selects\ and\ displays\ a\ junk\ food\ item\n\ from\ the\ unhealthy_food\ sprite\ sheet\ when\ it\ is\ created.\n\ \n\ UnhealthyFood\ objects\ inherit\ falling\ behavior\ from\ FallingObject\n\ and\ move\ downward\ automatically.\n\ \n\ Touching\ an\ UnhealthyFood\ will\ cause\ the\ player\ to\ lose\ one\ life.\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=
+comment1.target=UnhealthyFood()
+numComments=2

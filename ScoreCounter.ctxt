@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ScoreCounter
+comment0.text=\n\ ScoreCounter\ displays\ and\ manages\ the\ player's\ score.\n\ \n\ It\ uses\ the\ Singleton\ pattern\ to\ ensure\ only\ one\ instance\ of\ the\ score\ counter\ exists\ \n\ during\ the\ game.\ The\ score\ increases\ whenever\ the\ player\ catches\ a\ HealthyFood\ item.\n\ The\ current\ score\ is\ displayed\ at\ the\ top\ of\ the\ screen\ and\ updates\ live\ during\ gameplay.\n\ \n\ This\ class\ provides\ methods\ to\ add\ points,\ retrieve\ the\ current\ score\n\ and\ reset\ the\ counter\ when\ starting\ a\ new\ game.\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=
+comment1.target=ScoreCounter()
+comment2.params=
+comment2.target=ScoreCounter\ getInstance()
+comment3.params=
+comment3.target=void\ resetInstance()
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=points
+comment5.target=void\ addScore(int)
+comment6.params=
+comment6.target=int\ getScore()
+numComments=7

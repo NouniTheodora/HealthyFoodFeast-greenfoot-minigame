@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LifeCounter
+comment0.text=\n\ LifeCounter\ manages\ and\ displays\ the\ player's\ remaining\ lives.\n\ \n\ It\ adds\ Heart\ objects\ on\ the\ screen\ at\ the\ start\ of\ the\ game,\n\ and\ updates\ them\ when\ the\ player\ loses\ a\ life.\ \n\ Each\ Heart\ visually\ changes\ from\ a\ full\ heart\ to\ an\ empty\ heart\n\ as\ lives\ are\ lost.\n\ \n\ This\ class\ works\ together\ with\ the\ Heart\ class\ to\ visually\ represent\n\ the\ player's\ health\ status\ during\ the\ game.\n\ \n\ @author\:\ Theodora\ Nouni\n\ @version\:\ v1\n
+comment1.params=
+comment1.target=LifeCounter()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ loseLife()
+comment4.params=
+comment4.target=int\ getLives()
+comment5.params=
+comment5.target=void\ gainLife()
+numComments=6

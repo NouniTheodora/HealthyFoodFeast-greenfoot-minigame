@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Chef
+comment0.text=\n\ Chef\ is\ the\ player's\ character\ in\ the\ Healthy\ Food\ Feast\ game.\n\ \n\ The\ Chef\ can\ move\ left\ and\ right\ using\ the\ keyboard\ to\ catch\ falling\ HealthyFood\ items\n\ and\ avoid\ UnhealthyFood\ items.\ Catching\ HealthyFood\ increases\ the\ player's\ score,\ \n\ while\ touching\ UnhealthyFood\ causes\ the\ player\ to\ lose\ a\ life.\n\ \n\ The\ Chef's\ animations\ change\ based\ on\ movement\ direction\ and\ interactions\ \n\ (moving\ left,\ right,\ standing\ still).\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=
+comment1.target=Chef()
+comment2.params=
+comment2.target=void\ prepareImages()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ handleMovement()
+comment5.params=frames
+comment5.target=void\ animate(greenfoot.GreenfootImage[])
+comment6.params=
+comment6.target=void\ checkFoodCollision()
+numComments=7

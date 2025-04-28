@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EntryWorld
+comment0.text=\n\ EntryWorld\ is\ the\ entry\ screen\ of\ the\ Healthy\ Food\ Feast\ game.\n\ \n\ It\ displays\ the\ game\ title,\ purpose,\ basic\ rules,\ and\ instructions\n\ for\ the\ player.\ The\ player\ can\ read\ the\ information\ and\ start\ the\ game\n\ by\ pressing\ the\ [ENTER]\ key.\ Once\ [ENTER]\ is\ pressed,\ the\ game\ switches\n\ to\ the\ main\ gameplay\ world\ (HealthyFoodFeastWorld).\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=
+comment1.target=EntryWorld()
+comment2.params=
+comment2.target=void\ showStartScreen()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

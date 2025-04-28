@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=YouWinScreen
+comment0.text=\n\ YouWinScreen\ is\ displayed\ when\ the\ player\ reaches\ the\ winning\ score\ in\ Healthy\ Food\ Feast.\n\ \n\ The\ screen\ appears\ immediately\ when\ the\ player\ collects\ enough\ points\ \n\ (250\ points\ or\ more)\ during\ gameplay.\ Pressing\ the\ [ENTER]\ key\ from\ this\ screen\ \n\ resets\ the\ game\ and\ returns\ to\ the\ EntryWorld.\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=finalScore
+comment1.target=YouWinScreen(int)
+comment2.params=finalScore
+comment2.target=void\ showWinScreen(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TimerCounter
+comment0.text=\n\ TimerCounter\ manages\ the\ countdown\ timer\ during\ the\ game.\n\ \n\ The\ timer\ starts\ from\ a\ predefined\ number\ of\ seconds\ and\ decreases\ by\ one\ every\ real\ second.\n\ \n\ When\ the\ timer\ reaches\ zero,\ the\ game\ checks\ the\ player's\ progress\:\n\ -\ If\ the\ player\ is\ still\ in\ Level\ 1,\ the\ Game\ Over\ screen\ is\ shown.\n\ -\ If\ the\ player\ is\ in\ Level\ 2,\ the\ outcome\ depends\ on\ the\ final\ score\ (Win\ or\ Game\ Over).\n\ \n\ TimerCounter\ is\ designed\ as\ a\ singleton\ to\ ensure\ only\ one\ timer\ instance\ exists\ during\ gameplay.\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=startTime
+comment1.target=TimerCounter(int)
+comment2.params=
+comment2.target=TimerCounter\ getInstance()
+comment3.params=startTime
+comment3.target=void\ resetInstance(int)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ updateImage()
+numComments=6

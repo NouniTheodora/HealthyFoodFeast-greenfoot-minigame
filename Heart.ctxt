@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Heart
+comment0.text=\n\ Heart\ represents\ one\ life\ of\ the\ player.\n\ \n\ It\ can\ display\ either\ a\ full\ (red)\ heart\ or\ an\ empty\ (outline)\ heart\n\ depending\ on\ the\ player's\ remaining\ lives.\ \n\ The\ heart\ image\ changes\ to\ empty\ when\ the\ player\ loses\ a\ life.\n\ \n\ This\ class\ is\ used\ by\ the\ LifeCounter\ to\ visually\ represent\ the\ number\ of\ lives\ left.\n\ \n\ @author\ (Theodora\ Nouni)\ \n\ @version\ (v1)\n
+comment1.params=
+comment1.target=Heart()
+comment2.params=
+comment2.target=void\ resize()
+comment3.params=
+comment3.target=void\ lose()
+comment4.params=
+comment4.target=boolean\ isFull()
+comment5.params=
+comment5.target=void\ fill()
+numComments=6
